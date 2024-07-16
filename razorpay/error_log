@@ -1,0 +1,736 @@
+[31-Jan-2024 08:32:31 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 08:36:44 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 08:39:38 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 08:52:43 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:05:14 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:05:32 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:05:37 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:05:48 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:06:06 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:06:40 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:13:43 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:27:48 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:31:43 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:36:26 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:36:31 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:36:35 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:41:51 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:42:37 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:48:45 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:49:31 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:50:01 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:50:19 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:50:56 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 09:53:28 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:00:07 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:15:38 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:25:13 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:26:43 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:27:23 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:27:31 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:28:06 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:29:32 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:29:53 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:32:21 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:33:26 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:36:27 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:38:26 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:41:02 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:42:24 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:48:17 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:48:46 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:50:16 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:51:06 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:51:50 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:53:08 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:53:52 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:53:59 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:55:23 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:56:43 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 10:57:15 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:01:14 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:05:28 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:07:56 UTC] PHP Notice:  Undefined index: walletamnt in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/pay.php on line 13
+[31-Jan-2024 11:07:56 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:08:19 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:08:20 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:14:19 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:14:22 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:15:19 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:15:25 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:15:59 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:16:03 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:16:47 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:21:43 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:26:30 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:27:33 UTC] PHP Fatal error:  Uncaught Requests_Exception: cURL error 60: SSL certificate problem: unable to get local issuer certificate in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php:280
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php(123): Requests_Transport_cURL->process_response(false, Array)
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests.php(317): Requests_Transport_cURL->request('https://api.raz...', Array, Array, Array)
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(42): Requests::request('https://api.raz...', Array, Array, 'POST', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.c in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/libs/Requests-1.6.1/library/Requests/Transport/cURL.php on line 280
+[31-Jan-2024 11:55:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 11:57:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 11:58:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 11:58:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 12:31:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 13:40:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 13:52:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 14:11:15 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[31-Jan-2024 14:31:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[31-Jan-2024 18:38:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Feb-2024 05:51:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Feb-2024 07:39:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Feb-2024 07:50:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Feb-2024 08:27:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Feb-2024 11:35:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Feb-2024 15:35:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 05:53:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 08:08:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 12:05:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 13:39:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 13:47:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 15:15:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[02-Feb-2024 15:26:32 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[03-Feb-2024 09:36:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 09:42:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 09:49:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 11:15:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 13:41:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 13:42:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 14:00:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 14:06:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 15:03:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[03-Feb-2024 15:28:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[04-Feb-2024 06:38:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[04-Feb-2024 07:05:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[04-Feb-2024 07:28:43 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[04-Feb-2024 12:24:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[04-Feb-2024 15:45:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[05-Feb-2024 05:14:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[05-Feb-2024 05:14:23 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[05-Feb-2024 05:46:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[05-Feb-2024 06:29:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[05-Feb-2024 06:51:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[05-Feb-2024 13:36:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[05-Feb-2024 16:12:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 04:23:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 04:27:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 05:40:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 06:21:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 06:48:20 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Order amount less than minimum amount allowed in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/bg8ce9mm6lr6/public_html/brightnok.com/pa in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php on line 123
+[06-Feb-2024 06:48:27 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Order amount less than minimum amount allowed in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/bg8ce9mm6lr6/public_html/brightnok.com/pa in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php on line 123
+[06-Feb-2024 06:48:42 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[06-Feb-2024 06:52:36 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[06-Feb-2024 06:52:38 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[06-Feb-2024 07:27:55 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[06-Feb-2024 07:28:02 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[06-Feb-2024 10:51:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 11:25:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 13:23:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 14:03:31 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[06-Feb-2024 15:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[06-Feb-2024 17:19:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[07-Feb-2024 12:10:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[07-Feb-2024 14:25:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[08-Feb-2024 04:00:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[08-Feb-2024 05:25:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[08-Feb-2024 06:14:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[08-Feb-2024 07:41:28 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[08-Feb-2024 13:02:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[08-Feb-2024 13:20:07 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[08-Feb-2024 13:48:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 04:14:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 05:12:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 06:06:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 06:08:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 06:46:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 07:00:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 08:33:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 09:44:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 10:00:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 11:11:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 13:20:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 14:09:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[09-Feb-2024 14:27:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 05:15:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 06:39:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 06:41:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 10:30:14 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[10-Feb-2024 11:42:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 11:42:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 13:05:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[10-Feb-2024 20:12:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 05:58:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 06:34:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 06:55:49 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Order amount less than minimum amount allowed in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/bg8ce9mm6lr6/public_html/brightnok.com/pa in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php on line 123
+[11-Feb-2024 06:56:45 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[11-Feb-2024 07:00:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 11:34:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 12:10:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 12:14:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 12:39:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 13:23:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 14:33:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 14:41:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[11-Feb-2024 14:45:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 05:36:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 11:00:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 12:16:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 14:03:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 14:07:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 16:09:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 16:11:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 16:12:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[12-Feb-2024 16:21:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[13-Feb-2024 02:37:44 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[13-Feb-2024 06:07:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[13-Feb-2024 06:34:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[13-Feb-2024 06:50:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[13-Feb-2024 08:10:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[13-Feb-2024 13:05:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 04:19:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 05:16:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 05:59:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 06:11:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 08:18:16 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[14-Feb-2024 08:18:18 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[14-Feb-2024 08:18:18 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[14-Feb-2024 09:04:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 09:30:54 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Order amount less than minimum amount allowed in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/bg8ce9mm6lr6/public_html/brightnok.com/pa in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php on line 123
+[14-Feb-2024 11:26:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 12:03:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 14:23:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[14-Feb-2024 15:40:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[15-Feb-2024 02:50:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[15-Feb-2024 04:58:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[15-Feb-2024 05:28:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[15-Feb-2024 14:01:13 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[15-Feb-2024 14:29:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[15-Feb-2024 15:23:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[15-Feb-2024 17:50:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[16-Feb-2024 02:29:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[16-Feb-2024 13:51:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[16-Feb-2024 14:18:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[16-Feb-2024 16:20:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 05:12:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 05:15:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 05:16:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 07:07:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 11:20:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 11:41:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 13:25:31 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[17-Feb-2024 14:14:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[17-Feb-2024 14:21:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[18-Feb-2024 04:41:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[18-Feb-2024 05:08:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[18-Feb-2024 05:10:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[18-Feb-2024 06:05:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[18-Feb-2024 14:01:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 05:37:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 05:57:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 06:20:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 06:36:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 08:08:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 14:58:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 15:20:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[19-Feb-2024 15:26:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[20-Feb-2024 09:05:26 UTC] PHP Warning:  A non-numeric value encountered in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/pay.php on line 25
+[20-Feb-2024 09:05:27 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: Order amount less than minimum amount allowed in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/bg8ce9mm6lr6/public_html/brightnok.com/pa in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/razorpay-php/src/Request.php on line 123
+[20-Feb-2024 09:26:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[20-Feb-2024 10:42:31 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[20-Feb-2024 10:56:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[20-Feb-2024 10:57:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[20-Feb-2024 10:59:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[20-Feb-2024 21:58:21 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[21-Feb-2024 04:46:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 05:00:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 05:02:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 05:03:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 09:26:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 10:23:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 11:30:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 11:59:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 12:45:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 14:58:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[21-Feb-2024 20:22:47 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[22-Feb-2024 03:41:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 04:27:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 05:52:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 05:52:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 07:57:49 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[22-Feb-2024 10:30:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 12:04:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 14:53:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[22-Feb-2024 15:04:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 06:43:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 07:12:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 08:19:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 12:20:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 13:23:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 13:36:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[23-Feb-2024 13:40:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[24-Feb-2024 04:41:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[24-Feb-2024 04:59:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[24-Feb-2024 06:06:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[24-Feb-2024 14:20:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[24-Feb-2024 15:35:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[24-Feb-2024 16:14:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[25-Feb-2024 06:10:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[25-Feb-2024 07:31:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[25-Feb-2024 08:22:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[25-Feb-2024 11:12:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[25-Feb-2024 15:38:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[26-Feb-2024 03:49:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[26-Feb-2024 14:04:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[27-Feb-2024 04:46:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[27-Feb-2024 08:18:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[27-Feb-2024 13:05:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[27-Feb-2024 13:07:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[27-Feb-2024 16:16:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 05:13:18 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[28-Feb-2024 05:33:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 05:50:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 08:14:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 09:51:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 09:51:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 10:16:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 11:21:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 12:19:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 15:02:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[28-Feb-2024 15:06:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 11:33:19 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[29-Feb-2024 13:01:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 13:01:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 13:21:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 14:05:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 14:25:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 15:01:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 15:56:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 16:22:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[29-Feb-2024 16:38:30 UTC] PHP Notice:  Undefined index: shopping_order_id in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 20
+[01-Mar-2024 05:42:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Mar-2024 05:43:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Mar-2024 06:11:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Mar-2024 06:34:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
+[01-Mar-2024 06:58:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/bg8ce9mm6lr6/public_html/brightnok.com/panel/razorpay/verify.php on line 200
